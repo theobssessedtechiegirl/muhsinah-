@@ -1,1 +1,1 @@
-My personal portfolio website showcasing my skills, projects, and learning journey as an aspiring software developer. Built with HTML and CSS and continuously updated as I grow.
+Welcome to my personal portfolio website. This repository contains my portfolio built with HTML and CSS and will be updated as I continue learning and building projects.
