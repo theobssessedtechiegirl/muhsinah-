@@ -4,13 +4,13 @@ Welcome to my personal developer portfolio 👋🏽
 
 This portfolio showcases my journey into software development — the projects I've built, the technologies I'm learning, and the skills I'm continuously developing.
 
-## 🚀 About
+##  About
 
 I'm Muhsinah Alabi, an aspiring software developer passionate about learning through building practical projects.
 
 I started my development journey with the fundamentals of web development and have been expanding my skills through hands-on projects, experimentation, and consistent learning ever since. This portfolio is where I document that journey and the projects I've worked on along the way.
 
-## 🛠️ Technologies
+## Technologies
 
 **Frontend**
 - HTML5
@@ -28,7 +28,7 @@ I started my development journey with the fundamentals of web development and ha
 - APIs
 - Modern web development practices
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### DevTrack
 
@@ -46,8 +46,8 @@ A developer productivity and progress-tracking dashboard designed to help develo
 - Theme switching
 - Local data persistence
 
-🔗 **Live Demo:** [Add your DevTrack link]
-🔗 **GitHub:** [Add your DevTrack repository link]
+🔗 **Live Demo:** [https://theobssessedtechiegirl.github.io/th/]
+🔗 **GitHub:** [https://theobssessedtechiegirl.github.io/th/]
 
 ### Other Projects
 
@@ -82,7 +82,7 @@ Backend Development
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio:** [Add your portfolio link]
+🔗 **Live Portfolio:** [https://theobssessedtechiegirl.github.io/muhsinah-/#about]
 
 ## 📫 Connect With Me
 
